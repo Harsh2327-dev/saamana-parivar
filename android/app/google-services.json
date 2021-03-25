@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "620371488254",
+    "project_id": "saamana-parivar",
+    "storage_bucket": "saamana-parivar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620371488254:android:3e347c1ef962597e0564af",
+        "android_client_info": {
+          "package_name": "com.example.saamana_parivar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620371488254-h0fahbl9i19nkqrj27p0qbrmscr7gn03.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saamana_parivar",
+            "certificate_hash": "04f52262c73bf80768e67344bb3680acddff3f32"
+          }
+        },
+        {
+          "client_id": "620371488254-tsicljuhtehs449e2dvb4f4mmku9tljm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCleGnUN4DkhkIiCMmXBbZ7BjOeq-MoFXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620371488254-tsicljuhtehs449e2dvb4f4mmku9tljm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
